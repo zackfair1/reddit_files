@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        10000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/zackfair1/reddit_files/master/OneDrive%20-%20vgytk/Desktop/apps/clean_vectors/clean_features/features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/zackfair1/reddit_files/master/OneDrive%20-%20vgytk/Desktop/apps/clean_vectors/clean_features/metadata.tsv"
+    }
+  ]
+}
