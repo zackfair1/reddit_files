@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/zackfair1/reddit_files/master/weights.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/zackfair1/reddit_files/master/features.txt",
       "metadataPath": "https://raw.githubusercontent.com/zackfair1/reddit_files/master/metadata.tsv"
     }
   ]
